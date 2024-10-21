@@ -5,7 +5,7 @@ let totalReceived = 0; // Tổng số tiền đã nhận
     async function fetchDonations() {
         try {
             // URL chứa dữ liệu JSON của bạn
-            const response = await fetch("https://raw.githubusercontent.com/gocmodup/donate/refs/heads/main/t10");
+            const response = await fetch("https://raw.githubusercontent.com/gocmodup/donate/refs/heads/main/t10.json");
             const donations = await response.json();
 
             // Tính tổng số tiền đã donate
