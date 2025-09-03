@@ -4,6 +4,6 @@
     {"name": "Touchme", "amount": 50000},
     {"name": "vantam_132", "amount": 20000},
     {"name": "Bo Gia", "amount": 51000},
-    {"name": "ncnghia", "amount": 100000},
-    {"name": "Le Duy Duc", "amount": 30000}
+    {"name": "ncnghia", "amount": 100000, "message": "Gửi ad dĩa cơm sườn"},
+    {"name": "Le Duy Duc", "amount": 30000, "message": "Gửi ad ly cf"}
 ]
