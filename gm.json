@@ -6,5 +6,6 @@
     {"name": "Bo Gia", "amount": 51000},
     {"name": "ncnghia", "amount": 100000, "message": "Gửi ad dĩa cơm sườn"},
     {"name": "Le Duy Duc", "amount": 30000, "message": "Gửi ad ly cf"},
-    {"name": "HQNhat", "amount": 40000, "message": "Gửi ad"}
+    {"name": "HQNhat", "amount": 40000, "message": "Gửi ad"},
+    {"name": "Kiệt", "amount": 123456, "message": "Chúc ngủ ngon Ad"}
 ]
