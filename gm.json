@@ -1,21 +1,4 @@
 [
-    {"name": "Đoàn Lê Minh", "amount": 10000},
-    {"name": "AnhSilver", "amount": 100000},
-    {"name": "Touchme", "amount": 50000},
-    {"name": "vantam_132", "amount": 20000},
-    {"name": "Bo Gia", "amount": 51000},
-    {"name": "ncnghia", "amount": 100000, "message": "Gửi ad dĩa cơm sườn"},
-    {"name": "Le Duy Duc", "amount": 30000, "message": "Gửi ad ly cf"},
-    {"name": "HQNhat", "amount": 40000, "message": "Gửi ad"},
-    {"name": "Kiệt", "amount": 123456, "message": "Chúc ngủ ngon Ad"},
-    {"name": "Duong Anh Van", "amount": 10000, "message": "Của ít lòng nhiều"},
-    {"name": "Ẩn danh", "amount": 10000, "message": "Của ít lòng nhiều"},
-    {"name": "Tamo", "amount": 10000, "message": "Gửi ad uống nước mía"},
-    {"name": "Phúc", "amount": 20000, "message": "Gửi ad uống cf mod vpn gate"},
-    {"name": "Ẩn danh", "amount": 27000, "message": "Cảm ơn team Goc Mod nhiều nhé"},
-    {"name": "Hoàng Anh", "amount": 50000, "message": "Cảm ơn team Goc Mod nhiều nhé"},
-    {"name": "HoDacDi", "amount": 20000, "message": "Gửi ad một ít tiền"},
-    {"name": "Ẩn danh", "amount": 10000, "message": "Cảm ơn GocMod nhiều"},
-    {"name": "Ẩn danh", "amount": 50000, "message": "Gửi ad ly cafe"},
-    {"name": "ChuyênLùaGà", "amount": 10000, "message": "gui ad chut long thanh"}
+        {"name": "Ẩn danh", "amount": 100000, "message": "Donate GocMod cam on team nhe"}
+
 ]
