@@ -1,4 +1,5 @@
 [
         {"name": "Ẩn danh", "amount": 100000, "message": "Donate GocMod cam on team nhe"},
-{"name": "Fanh", "amount": 30000, "message": "cam on team gocmod"}
+{"name": "Fanh", "amount": 30000, "message": "cam on team gocmod"},
+{"name": "Danh", "amount": 30000, "message": "cam on team gocmod"}
 ]
