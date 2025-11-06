@@ -6,5 +6,6 @@
         {"name": "An Khang", "amount": 100000, "message": "Của ít làm nhiều nha ad"},
         {"name": "Thong Nguyen", "amount": 50000, "message": "Gửi ad ly cafe"},
         {"name": "Dang Quang Minh", "amount": 50000, "message": "Gửi ad ly cafe"},
-         {"name": "Huy Sang", "amount": 50000, "message": "Chuyển tiền cafe"}
+         {"name": "Huy Sang", "amount": 50000, "message": "Chuyển tiền cafe"},
+        {"name": "Ẩn danh", "amount": 50000, "message": "Cảm ơn GocMod, gửi team tí nước"}
 ]
